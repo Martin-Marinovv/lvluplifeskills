@@ -30,3 +30,23 @@ root/
 │   ├── css/            <-- Custom Style Definitions (Human OS Design System)
 │   └── images/         <-- High-Resolution Book & Brand Assets
 └── README.md           <-- You are here [System Documentation]
+```
+📜 LEGAL FRAMEWORK & LICENSING
+Proprietary System Information:
+All code, design frameworks, and "Human OS" terminology contained herein are the intellectual property of Andromeda Way.
+
+Copyright: © 2026 Andromeda Way. All Rights Reserved.
+
+Trademark: "Level Up" and "Human OS" are registered assets of the Andromeda Way ecosystem.
+
+License: No License (Standard Copyright). Unauthorized replication, redistribution, or modification of these files is prohibited.
+
+🚀 ACCESS CHANNELS
+Web Portal: levelup.andromedaway.space
+
+Community: Join THE NETWORK (Discord)
+
+Publications: The Novice Guide to Life Skills (Available in Paperback/Digital)
+
+"Identify Autopilot. Break Free. Live Intentionally."
+— [END OF DOCUMENT]
