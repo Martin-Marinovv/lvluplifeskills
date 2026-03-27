@@ -39,20 +39,14 @@ All code, design frameworks, and "Human OS" terminology
 contained herein are the intellectual property of 
 Andromeda Way.
 
-COPYRIGHT: © 2026 Andromeda Way. All Rights Reserved.
-
-TRADEMARK: "Level Up" and "Human OS" are registered assets 
-           of the Andromeda Way ecosystem.
-           
-LICENSE:   No License (Standard Copyright). 
-           Unauthorized replication, redistribution, or 
-           modification of these files is prohibited.
+* **COPYRIGHT:** `© 2026 Andromeda Way. All Rights Reserved.`
+* **TRADEMARK:** `"Level Up: Guide to Life Skills" is registered asset`
+* **LICENSE:** `No License (Standard Copyright). Unauthorized replication, redistribution, or modification of these files is prohibited.`       
 ---------------------------------------------------------
-
 🚀 ACCESS CHANNELS
 ---------------------------------------------------------
 Web Portal:    [https://levelup.andromedaway.space](https://levelup.andromedaway.space)
-Community:     [https://linktr.ee/Level_Up_Hub](https://linktr.ee/Level_Up_Hub)
+Community:     [THE NETWORK](https://discord.gg/vn7P8fmNtD)
 Publications:  The Novice Guide to Life Skills 
 
 "Identify Autopilot. Break Free. Live Intentionally."
