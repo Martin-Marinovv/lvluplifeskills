@@ -30,6 +30,7 @@ root/
 │   ├── css/            <-- Custom Style Definitions (Human OS Design System)
 │   └── images/         <-- High-Resolution Book & Brand Assets
 └── README.md           <-- You are here [System Documentation]
+```
 
 📜 LEGAL FRAMEWORK & LICENSING
 ---------------------------------------------------------
