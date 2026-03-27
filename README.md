@@ -45,9 +45,9 @@ Andromeda Way.
 ---------------------------------------------------------
 🚀 ACCESS CHANNELS
 ---------------------------------------------------------
-* **Web Portal:**    `[https://levelup.andromedaway.space](https://levelup.andromedaway.space)`
-* **Community:**     `[THE NETWORK](https://discord.gg/vn7P8fmNtD)`
-* **Publications:**  `The Novice Guide to Life Skills` 
+* **Web Portal:**    [https://levelup.andromedaway.space](https://levelup.andromedaway.space)
+* **Community:**     [THE NETWORK](https://discord.gg/vn7P8fmNtD)
+* **Publications:**  The Novice Guide to Life Skills 
 
 "Identify Autopilot. Break Free. Live Intentionally."
 
