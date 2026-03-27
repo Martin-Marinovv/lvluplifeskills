@@ -40,8 +40,10 @@ contained herein are the intellectual property of
 Andromeda Way.
 
 COPYRIGHT: © 2026 Andromeda Way. All Rights Reserved.
+
 TRADEMARK: "Level Up" and "Human OS" are registered assets 
            of the Andromeda Way ecosystem.
+           
 LICENSE:   No License (Standard Copyright). 
            Unauthorized replication, redistribution, or 
            modification of these files is prohibited.
